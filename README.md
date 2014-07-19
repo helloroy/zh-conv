@@ -11,7 +11,7 @@ Add the package to your `composer.json` file:
 
     {
       "require": {
-        "dreamsdrive/zh-conv": "1.0.*"
+        "dreamsdrive/zh-conv": "*"
       }
     }
 
